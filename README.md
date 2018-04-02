@@ -16,7 +16,9 @@ Unfortunately I cannot provide direct links to the datasets that I used. But the
 The provided presentation is made via matlibplot. We start by importing the needed packages.
 
 >import matplotlib.pyplot as plt
+>
 >import mplleaflet
+>
 >import pandas as pd
 >import numpy as np
 >import math
