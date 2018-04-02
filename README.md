@@ -15,14 +15,14 @@ Unfortunately I cannot provide direct links to the datasets that I used. But the
 
 The provided presentation is made via matlibplot. We start by importing the needed packages.
 
->import matplotlib.pyplot as plt
->
->import mplleaflet
->
->import pandas as pd
->import numpy as np
->import math
->import matplotlib.gridspec as gridspec
+```
+import matplotlib.pyplot as plt
+import mplleaflet
+import pandas as pd
+import numpy as np
+import math
+import matplotlib.gridspec as gridspec
+```
 
 The snow to liquid ratio is a way of describing what makes light, fluffy snow different from heavy, wet snow. The temperature can have a huge impact on the amount of snow as well as how much it weighs. The snow ratio compares the amount of liquid precipitation with the number of inches of snow. In colder weather, snow has more air space so there are more inches of snow. Wet snow that falls at the freezing mark is usually sloppy and heavy. Based on some search I decided to use the following different constants (based on average cold temperature for winter days of each city).
 
