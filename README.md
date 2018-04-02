@@ -209,4 +209,4 @@ plt.show()
 fig.savefig('graph_ass4.png')
 ```
 
-The outcome would be the attached png file.
+The outcome would be the attached png file. The middle graph obviously implies with these snow to liquid ratios, Vancouver had almost always more precipitation. 
